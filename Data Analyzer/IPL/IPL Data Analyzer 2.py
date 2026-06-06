@@ -99,3 +99,4 @@ if 'winner' in df.columns:
     )
     plt.title("Match Wins by Team")
     plt.tight_layout()
+    plt.show()
